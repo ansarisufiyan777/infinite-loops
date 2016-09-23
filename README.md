@@ -4,14 +4,14 @@ This file contains android tutorials
 you can find deep explaination over here http://infiniteloopsinc.com
 
 # Google & facebook login Integeration:
-![clist](http://infiniteloops.info/wp-content/uploads/2016/08/maxresdefault-320x320.jpg)
+![clist](http://infiniteloops.info/wp-content/uploads/2016/08/maxresdefault.jpg)
 # Multiple Recyclerview In single layout:
-![clist](http://infiniteloops.info/wp-content/uploads/2016/09/Android-nougat-320x320.jpg)
+![clist](http://infiniteloops.info/wp-content/uploads/2016/09/Android-nougat.jpg)
 # App Intro Slider :
 ![clist](http://infiniteloops.info/wp-content/uploads/2016/09/4209144-copy-720x340.jpg)
 
 # Cardview Customization :
-![clist](http://infiniteloops.info/wp-content/uploads/2016/09/Screen-Shot-2016-09-20-at-11.38.01-PM-320x320.png)
+![clist](http://infiniteloops.info/wp-content/uploads/2016/09/Screen-Shot-2016-09-20-at-11.38.01-PM.png)
 
 # Simple Recyclerview :
 ![clist](http://infiniteloops.info/wp-content/uploads/2016/08/android_marshmallow_update_dates_for_smartphones-520x245.png)
